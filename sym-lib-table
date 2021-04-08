@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name oled)(type Legacy)(uri ${KIPRJMOD}/oled.lib)(options "")(descr ""))
+  (lib (name MOSFET)(type Legacy)(uri ${KIPRJMOD}/MOSFET.lib)(options "")(descr ""))
+)
